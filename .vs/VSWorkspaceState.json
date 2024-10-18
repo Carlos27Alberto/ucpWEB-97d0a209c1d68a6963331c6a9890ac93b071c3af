@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ucp-web-code",
+    "\\ucp-web-code\\src",
+    "\\ucp-web-code\\src\\app",
+    "\\ucp-web-code\\src\\app\\dashboard",
+    "\\ucp-web-code\\src\\app\\login",
+    "\\ucp-web-code\\src\\app\\reports",
+    "\\ucp-web-code\\src\\components",
+    "\\ucp-web-code\\src\\components\\ui",
+    "\\ucp-web-code\\src\\components\\ui\\WebHeader"
+  ],
+  "SelectedNode": "\\ucp-web-code\\src\\app\\login\\login.css",
+  "PreviewInSolutionExplorer": false
+}
